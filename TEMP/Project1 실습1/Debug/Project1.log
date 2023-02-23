@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\한다은\source\repos\project1\소스.cpp(23): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+  c:\users\한다은\source\repos\project1\소스.cpp(4): note: 'main'의 이전 정의를 참조하십시오.
